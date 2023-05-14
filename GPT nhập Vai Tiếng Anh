@@ -1,3 +1,99 @@
 Hành động như một giáo viên nói tiếng Anh và cải tiến
 
 Tôi muốn bạn đóng vai trò là một giáo viên và người cải tiến tiếng Anh nói. Tôi sẽ nói chuyện với bạn bằng tiếng Anh và bạn sẽ trả lời tôi bằng tiếng Anh để luyện nói tiếng Anh của tôi. Tôi muốn bạn trả lời ngắn gọn, giới hạn câu trả lời trong 100 từ. Tôi muốn bạn nghiêm túc sửa lỗi ngữ pháp, lỗi chính tả và lỗi thực tế của tôi. Tôi muốn bạn hỏi tôi một câu hỏi trong câu trả lời của bạn. Bây giờ hãy bắt đầu thực hành, bạn có thể hỏi tôi một câu hỏi trước. Hãy nhớ rằng, tôi muốn bạn sửa lỗi ngữ pháp, lỗi chính tả và lỗi thực tế của tôi một cách nghiêm túc.
+
+
+// https://www.thuexelimousinehanoi.com/post/prompt-gpt-hoc-tieng-anh#viewer-6k2dk
+1. BÀI THI IELTS
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Viết dàn ý bài luận để trả lời câu hỏi IELTS Writing Task 2 sau: [insert IELTS Writing Task 2 question]	
+
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Đưa ra câu hỏi IELTS Writing Task 2 sau đây, hãy đưa ra 3 lập luận để hỗ trợ/phản đối nhận định: [insert IELTS Writing Task 2 question]	
+
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Viết một bài luận để trả lời câu hỏi IELTS Writing Task 2 sau đây với ít nhất 250 từ: [insert IELTS Writing Task 2 question]	
+
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Viết một đoạn giới thiệu ngắn cho một bài luận để trả lời câu hỏi IELTS Writing Task 2 sau đây: [insert IELTS Writing Task 2 question]	
+
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Viết một đoạn kết luận ngắn cho bài luận đang viết dở này: ”[chèn bài luận của bạn]” Để biết thông tin của bạn, bài luận được viết để trả lời cho câu hỏi Bài viết IELTS 2 sau đây: [chèn câu hỏi Bài viết IELTS 2]	
+
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Xây dựng/Giải thích lập luận sau trong 3-4 câu: [chèn lập luận của bạn] Đối với thông tin của bạn, lập luận này là một phần của bài luận được viết để trả lời câu hỏi Bài viết IELTS 2 sau đây: [chèn câu hỏi Bài viết IELTS 2]	
+
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Đưa ra và giải thích một ví dụ để hỗ trợ lập luận sau trong 1-2 câu: [chèn lập luận của bạn] Đối với thông tin của bạn, lập luận này là một phần của bài luận được viết để trả lời cho câu hỏi Bài viết IELTS 2 sau đây: [chèn Bài tập viết IELTS 2 câu hỏi]	
+
+Đóng vai một thí sinh thi IELTS với số điểm 8.0. Hoàn thành câu này cho tôi: [chèn câu của bạn] Xin thông tin, câu này là một phần của bài luận được viết để trả lời cho câu hỏi Bài viết IELTS 2 sau đây: [chèn câu hỏi Bài viết IELTS 2]	
+
+Chỉ ra rõ ràng những lỗi sai trong bài văn này và cách sửa chúng: [chèn bài văn của bạn]	
+
+Diễn giải/viết lại câu/đoạn văn này: [chèn câu/đoạn văn của bạn]	
+
+Làm cho bài luận IELTS Writing Task 2 này dài hơn bằng cách giải thích chi tiết các luận điểm hiện có (không thêm nhiều đối số): [chèn bài luận của bạn] Xin thông tin, câu này là một phần của bài luận được viết để trả lời cho câu hỏi IELTS Writing Task 2 sau đây : [chèn câu hỏi của bạn]	
+
+Viết lại bài luận IELTS Writing Task 2 này bằng ngôn ngữ đơn giản/học thuật hơn: [chèn bài luận của bạn]	
+
+Cải thiện/Hoàn thiện bài luận này: [chèn bài luận của bạn]	
+
+Điểm mạnh và điểm yếu của bài luận này là gì? Đưa ra đề xuất của bạn để cải thiện cho người viết: [chèn bài luận của bạn]	
+
+Giải thích ý nghĩa của [insert the word/cụm từ] và cho tôi một ví dụ về cách sử dụng nó trong cuộc sống thực.	
+
+Cho tôi 5 từ đồng nghĩa/trái nghĩa của [insert the word/phrase].	
+
+Hãy cho tôi 10 cách khác để nói [chèn cụm từ/câu].	
+
+Có đúng là tôi nên sử dụng cụm từ "có một thời gian như cá voi" khi tôi buồn không?	
+
+Đóng vai trò là người tóm tắt và tóm tắt bài luận này: [chèn bài luận]	
+
+Giải thích [cái gì] [cách làm cái gì]
+Bạn có thể cung cấp ba ví dụ về câu sử dụng thì quá khứ đơn để mô tả các sự kiện trong quá khứ không?
+
+Bạn có thể giải thích sự khác biệt về ý nghĩa giữa 'few' và 'a few' bằng hai ví dụ cụ thể không?
+
+Bạn có thể cung cấp danh sách năm cụm động từ phổ biến với từ 'get' và định nghĩa của chúng không?
+
+Bạn có thể cung cấp ba ví dụ về các câu sử dụng thì hiện tại hoàn thành để mô tả các sự kiện trong quá khứ vẫn còn liên quan đến hiện tại không?
+
+Bạn có thể cung cấp ba ví dụ về các thành ngữ phổ biến và ý nghĩa của chúng, cùng với một câu sử dụng từng thành ngữ?
+
+ Vui lòng kiểm tra/xem lại [cái gì]:
+
+Sao chép câu hỏi của bạn từ Bảng câu hỏi và yêu cầu chatbot Đóng vai trò là giáo viên của tôi và kiểm tra tính chính xác của [chèn câu hỏi của bạn].
+
+Dán đoạn văn của bạn và yêu cầu ChatGPT sửa hoặc diễn giải đoạn văn đó.
+
+
+Hành động như thể [ai] [ở đâu]. Bạn sẽ [làm gì] như thế nào?
+Hành động như thể bạn đang gặp ai đó lần đầu tiên. Làm thế nào bạn sẽ giới thiệu bản thân và bắt đầu một cuộc Chat?
+
+Hành động như thể bạn đang trong một cuộc phỏng vấn việc làm. Làm thế nào bạn sẽ trả lời câu hỏi, 'Hãy cho tôi biết về bản thân bạn?
+
+Hành động như thể bạn đang ở một bữa tiệc và muốn bắt chuyện với một người lạ. Làm thế nào bạn sẽ bắt đầu cuộc Chat và tiếp tục nó?
+
+Hành động như thể bạn đang có bất đồng với một người bạn. Bạn sẽ thể hiện quan điểm của mình như thế nào và cố gắng giải quyết xung đột?
+
+Hành động như thể bạn đang thuyết trình trước một nhóm người. Làm thế nào bạn có thể thu hút sự chú ý của họ và giữ họ tham gia trong suốt bài thuyết trình của bạn?
+
+Đóng vai [ai] và đặt câu hỏi cho tôi về [cái gì]
+Đóng vai một người phỏng vấn và hỏi tôi những câu hỏi phỏng vấn cho vị trí ***. Hỏi tôi một câu hỏi và chờ đợi câu trả lời của tôi. Sau đó hỏi một câu hỏi khác. Kết thúc cuộc phỏng vấn khi tôi nói 'cảm ơn vì thời gian của bạn'. Cung cấp thông tin phản hồi về cách tôi thực hiện.
+
+Đóng vai trò là đại diện dịch vụ khách hàng và đặt câu hỏi cho tôi về sản phẩm mà tôi muốn mua. Hỏi tôi một câu hỏi và chờ đợi câu trả lời của tôi. Sau đó hỏi một câu hỏi khác. Kết thúc cuộc Chat khi tôi nói 'cảm ơn vì sự giúp đỡ của bạn'. Cung cấp phản hồi về cách tôi đã làm bằng cách bày tỏ nhu cầu và mối quan tâm của mình.
+
+Đóng vai một nhà báo và đặt câu hỏi cho tôi về một tin tức mà tôi mới đọc gần đây. Hỏi tôi một câu hỏi và chờ đợi câu trả lời của tôi. Sau đó hỏi một câu hỏi khác. Kết thúc cuộc phỏng vấn khi tôi nói 'cảm ơn vì thời gian của bạn'. Cung cấp phản hồi về cách tôi đã làm khi thảo luận về bài viết và bày tỏ ý kiến của mình.
+
+Đóng vai một giáo viên và đặt câu hỏi cho tôi về *** một bài học mà tôi đã học được gần đây. Hỏi tôi một câu hỏi và chờ đợi câu trả lời của tôi. Sau đó hỏi một câu hỏi khác. Kết thúc phiên khi tôi nói 'cảm ơn bạn đã dành thời gian'. Cung cấp phản hồi về cách tôi đã làm để hiểu và áp dụng các khái niệm.
+
+Hãy chơi [trò chơi: quy tắc]
+Bắt đầu trò chơi '20 câu hỏi.' Bạn có thể hỏi tôi câu hỏi có hoặc không để thử đoán từ mà tôi đang nghĩ đến. Tôi sẽ cho bạn một gợi ý: đó là một loại trái cây.
+
+Hãy chơi trò 'Hai sự thật và một lời nói dối.' Hãy cho tôi ba câu nói về bản thân bạn, và tôi sẽ cố đoán xem câu nào là nói dối.
+
+Hãy chơi trò chơi 'Bạn có muốn không.' Tôi sẽ cung cấp cho bạn hai lựa chọn và bạn phải chọn cái nào bạn thích.
+
+Hãy chơi trò chơi 'I Spy.' Tôi sẽ cho bạn một manh mối và bạn phải đoán đối tượng mà tôi đang nghĩ đến. Manh mối là: Đó là thứ bạn mang trên chân.
+
+Giả vờ bạn là một trò chơi phiêu lưu dựa trên văn bản được đặt trong [setting]. Bạn phải đưa ra lựa chọn [số tùy chọn] để điều hướng trong trò chơi.
+
+Giả vờ bạn là một trò chơi phiêu lưu dựa trên văn bản lấy bối cảnh thế giới của Harry Potter. Bạn bắt đầu với 100 máu và phải đưa ra lựa chọn (A, B hoặc C) để điều hướng trong trò chơi.
+
+Giả vờ bạn là một trò chơi phiêu lưu dựa trên văn bản lấy bối cảnh thế giới hậu tận thế. Bạn bắt đầu với 50 máu và phải đưa ra lựa chọn (A, B, C hoặc D) để điều hướng trong trò chơi.
+
+Giả vờ bạn là một trò chơi phiêu lưu dựa trên văn bản lấy bối cảnh trong một khu rừng ma thuật. Bạn phải đưa ra lựa chọn (A, B, C hoặc D) để điều hướng trong trò chơi.
